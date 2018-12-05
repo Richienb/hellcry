@@ -4,7 +4,7 @@ Hi, guys, this is the HellCry GitHub repository.
 
 You may access this folder at any time and add in your work for the game. You can also comment on each other's work. 
 
-- These things need to be done:
+These things need to be done
 - Item graphics (in inventory items)
 - Game map
 - Textures
