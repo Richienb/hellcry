@@ -1,7 +1,5 @@
 """
 The main core file
-
-"
 """
 from fabulous import image
 import quilt_lang as _
