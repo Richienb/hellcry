@@ -1,2 +1,2 @@
-quilt-lang
-fabulous
+quilt-lang ~= 0.6.1
+fabulous ~= 0.3.0
