@@ -1,6 +1,6 @@
 # HellCry
 
-Hi, guys, this is the HellCry shared Google folder.
+Hi, guys, this is the HellCry GitHub repository.
 
 You may access this folder at any time and add in your work for the game. You can also comment on each other's work. 
 
